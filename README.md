@@ -1,4 +1,5 @@
-# Rotating-the-Gaming-Object
+# <p align="center">Rotating-the-Gaming-Object</p>
+
 
 ## Aim:
 To develop a 3D application for rotating the gaming objects in unity.
